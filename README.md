@@ -3,8 +3,6 @@
 ## 📚 About Data
 This comprehensive sales dashboard presents key financial metrics including total sales, profits, transactions, and profit margin, with detailed breakdowns by county, customer, and product. It features interactive time filters for quarterly and yearly analysis, alongside geographic profit visualization to identify regional performance patterns.
 
-#salesperformance
-
 ## 💡 Highlights
 
 - Total sales reached over $25.6 million with a strong profit margin of 32.52%.
@@ -20,10 +18,6 @@ Conducted simple data wrangling and data cleaning:
 - Cleaned Valuation and Funding columns and cast as float
 - Exclude rows with "Unknown" Funding values
 - Explode Select Investors column into individual rows for categorical analysis
-
-📍 Jupyter script: Notebook
-
-📍 Clean Data: a.csv
 
 ## 📊 Visualization
 - Produced a 2-pager dashboard using Power BI.
