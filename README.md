@@ -48,7 +48,7 @@ This dashboard helps sales managers, business analysts and regional leaders who 
 
 The dashboard highlights strong business performance with a total sales figure of $25.6 million and a robust 32.52% profit margin, demonstrating healthy profitability alongside growing revenue. Among all regions, Los Angeles County emerges as the top revenue contributor, reflecting its importance as a key market. Additionally, several products have achieved sales exceeding $600K, emphasizing their role as major revenue drivers for the company.
 
-By analyzing sales and profit trends over time, the dashboard reveals clear seasonal fluctuations and shifts in demand that affect overall business cycles. Geographic profit distribution uncovers regional strengths and weaknesses, allowing stakeholders to pinpoint areas of high performance and those needing attention. These insights enable more strategic decision-making around inventory management, targeted marketing and customer engagement—helping the business optimize resources and drive sustained growth across products, customers and markets.
+By analyzing sales and profit trends over time, the dashboard reveals clear seasonal fluctuations and shifts in demand that affect overall business cycles. Geographic profit distribution uncovers regional strengths and weaknesses, allowing stakeholders to pinpoint areas of high performance and those needing attention. These insights enable more strategic decision making around inventory management, targeted marketing and customer engagement, helping the business optimize resources and drive sustained growth across products, customers and markets.
 
 ---
 
